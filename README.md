@@ -66,7 +66,7 @@ Wrote the core `convert` function to handle the multiplication and wired it to a
 FUTURE KE LIYE-->
 *SWAP feature not available only single way data flow.
 *When i write anything in the amount for the first time and then i remove it there is a default "0" at the input state and after that anything u write will look like: "01", "01234" ,etc.
-*AS YALL KNOW we have a habit of pressing enter_ to complete any task but here that doesn't work you HAVE to click on the convert button to make it work very annoying.. 
+*AS YALL KNOW we have a habit of pressing enter_ to complete any task but here that doesn't work you HAVE to click on the convert button to make it work very annoying..  AND we got increment/decrement arrows near the disabled input state(result area). makes no sense hahahhaha .
 
 
 
